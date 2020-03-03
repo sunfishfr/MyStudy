@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="076e6f64-dd5d-4db7-968b-c549278662f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/scanner/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/scanner/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/ForDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/ForDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/ForDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/ForeachDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/基础语法/src/com/luhan/struct/TestDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../blog/0.英语单词或名词.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../blog/0.英语单词或名词.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/基础语法/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/基础语法/HelloWorld.class" afterDir="false" />
-    </list>
+    <list default="true" id="076e6f64-dd5d-4db7-968b-c549278662f9" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,8 +44,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/基础语法/src/com/luhan/struct/TestDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="361">
+              <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -286,16 +272,15 @@
       <workItem from="1583055281535" duration="7630000" />
       <workItem from="1583071982775" duration="118000" />
       <workItem from="1583072118295" duration="73000" />
-      <workItem from="1583072208356" duration="5004000" />
+      <workItem from="1583072208356" duration="5762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20989000" />
+    <option name="totallyTimeSpent" value="21747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26605996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -306,7 +291,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3922652" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3922652" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -439,8 +424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/基础语法/src/com/luhan/struct/TestDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="361">
+          <caret line="19" column="38" lean-forward="true" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
         </state>
       </provider>
     </entry>
